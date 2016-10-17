@@ -1,0 +1,563 @@
+body
+{
+  background-color: #E8E6DA	;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-size: 12px;
+}
+h1, h2, h3
+{
+  color: black;
+}
+p
+{
+  color: black;
+}
+.hub
+{
+  margin-right: 160px;
+  text-align: center;
+
+}
+.hub
+{
+  margin-left: 120px;
+}
+.mainpicture
+{
+  height: 325px;
+  width: 325px;
+}
+.jumbotron
+{
+  text-align: center;
+  height: 300px;
+  margin-left: 0;
+  width: 75%;
+}
+h2
+{
+  margin-left: 275px;
+}
+.caption
+{
+  margin-left: 275px;
+  text-align: center;
+}
+
+.sidebar
+{
+  /*border-style: solid;
+  border-color: black; */
+  background-color: #CCCEA9;
+  height: 450px;
+  float: left;
+  width: 175px;
+  margin-left: 0px;
+  border-radius: 25px;
+  font-size: 15px;
+}
+.home
+{
+  height: 100px;
+  width: 100px;
+  text-align: center;
+  margin-top: 0px;
+  border-radius: 25px;
+}
+.musichome
+{
+  height: 100px;
+  width: 100px;
+  text-align: center;
+  margin-top: 0px;
+  border-radius: 25px;
+}
+.projecthome
+{
+  height: 100px;
+  width: 100px;
+  text-align: center;
+  margin-top: 0px;
+  border-radius: 25px;
+}
+.bottombar
+{
+  position: relative;
+  background-color: #CCCEA9;
+  height: 150px;
+  width: 100%;
+  bottom: 0;
+  /*left: 0;*/
+  text-align: center;
+  /*border-style: solid;
+  border-color: black;
+  */
+  border-radius: 25px;
+  margin-top: 50px;
+
+}
+li
+{
+  list-style: none;
+  height: 75px;
+  display: vertical;
+  margin-right: 25px;
+  color: black;
+}
+nav
+{
+  display: block;
+}
+a
+{
+  text-decoration:none;
+  color: black;
+}
+.picture1
+{
+  margin-right: 165px;
+  text-align: center;
+}
+.pic1
+{
+  width: 250px;
+  height:400px;
+}
+.captioncello
+{
+  margin-left: 100px;
+  margin-right: 450px;
+}
+.pic2
+{
+  width: 250px;
+  height:400px;
+}
+.captionpiano
+{
+  margin-left: 100px;
+  margin-right: 450px;
+}
+.pic3
+{
+  width: 250px;
+  height:400px;
+}
+.captionvocals
+{
+  margin-left: 100px;
+  margin-right: 450px;
+}
+/*.interest-header{
+  text-align: left;
+}
+.interest-heading, .interest-dropdown{
+  display: inline-block;
+}
+.interest-dropdown{
+  width: 15px;
+  height: 15px;
+}
+.interest-content{
+  display: none;
+}
+*/
+.instruments
+{
+    text-align: left;
+    margin-top: 50px;
+}
+.instrumentsheading
+{
+  display: inline-block;
+}
+.instrumentsdropdown
+{
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+}
+.instrumentscontent
+{
+  display: none;
+}
+.lessons
+{
+  text-align: left;
+}
+.lessonsheading
+{
+  display: inline-block;
+}
+.lessonsdropdown
+{
+  height: 15px;
+  width: 15px;
+  display: inline-block;
+}
+.lessonscontent
+{
+  display: none;
+}
+.rate1
+{
+  list-style: none;
+  text-align: left;
+  margin-left: 100px;
+}
+.rate2
+{
+  list-style: none;
+  text-align: left;
+  margin-left: 100px;
+}
+.aboutlessons
+{
+  margin-left: 100px;
+  margin-right: 450px;
+  text-align: left;
+}
+.aboutlocations
+{
+  margin-left: 100px;
+  margin-right: 450px;
+  text-align: left;
+}
+.abouttimes
+{
+  margin-left: 100px;
+  margin-right: 450px;
+  text-align: left;
+}
+.aboutspots
+{
+  margin-left: 100px;
+  margin-right: 450px;
+  text-align: left;
+}
+.playbutton
+{
+  width: 15px;
+  height: 15px;
+  display: inline-block;
+}
+.playbutton2
+{
+  width: 15px;
+  height: 15px;
+  display: inline-block;
+}
+.playbutton3
+{
+  width: 15px;
+  height: 15px;
+  display: inline-block;
+}
+.favoritepiececello
+{
+  display: inline-block;
+  text-align: left;
+  margin-left: 100px;
+
+}
+.favoritepiecepiano
+{
+  display: inline-block;
+  text-align: left;
+  margin-left: 100px;
+
+}
+.favoritepiecevocal
+{
+  display: inline-block;
+  text-align: left;
+  margin-left: 100px;
+
+}
+.stopbutton
+{
+  width: 15px;
+  height: 15px;
+  display: inline-block;
+  margin-left: 2px;
+}
+.stopbutton2
+{
+  width: 15px;
+  height: 15px;
+  display: inline-block;
+  margin-left: 2px;
+}
+.stopbutton3
+{
+  width: 15px;
+  height: 15px;
+  display: inline-block;
+  margin-left: 2px;
+}
+.contact
+{
+  margin-bottom: 0px;
+}
+.cellphone
+{
+  display: inline-block;
+  height: -15px;
+  margin-top: 0px;
+  padding-right: 20px;
+
+}
+.email
+{
+  display: inline-block;
+  height: -15px;
+  margin-top: 0px;
+  padding-right: 20px;
+}
+.facebookimage
+{
+  height: 30px;
+  width: 30px;
+  margin-top: 0px;
+  padding-right: 20px;
+}
+.twitterimage
+{
+  height: 30px;
+  width: 30px;
+  margin-top: 0px;
+  padding-right: 20px;
+}
+.githubimage
+{
+  height: 30px;
+  width: 30px;
+  margin-top: 0px;
+}
+.copyright
+{
+  text-align: right;
+  margin-top: 0px;
+}
+.contactclass
+{
+  text-align: left;
+  margin-left: 10px;
+  padding-top: 1.5px;
+}
+.copyright
+{
+  margin: 0;
+  bottom: 0;
+  margin-right: 10px;
+}
+.contactimages
+{
+  text-align: center;
+}
+.courseworkhome
+{
+  height: 100px;
+  width: 100px;
+  text-align: center;
+  margin-top: 0px;
+  border-radius: 25px;
+}
+.neuquacenter
+{
+  margin-right: 165px;
+  text-align: center;
+}
+.neuqua
+{
+  width: 700px;
+  height: 400px;
+}
+
+
+.coursework
+{
+  margin-top: 50px;
+  text-align: left;
+}
+.courseworkcontent
+{
+  display: none;
+
+}
+.courseworkheading
+{
+  display: inline-block;
+}
+.courseworkdropdown
+{
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+}
+
+.math
+{
+  display: inline-block;
+  padding-right: 30px;
+  vertical-align: top;
+  text-align: left;
+
+}
+.science
+{
+  display: inline-block;
+  vertical-align: top;
+  text-align: left;
+}
+.engineering
+{
+  display: inline-block;
+  padding-left: 30px;
+  vertical-align: top;
+  text-align: left;
+  margin-left: 50px;
+}
+.mathheading
+{
+  display: inline-block;
+}
+.sciheading
+{
+  display: inline-block;
+}
+.engheading
+{
+  display: inline-block;
+}
+.clubs
+{
+  text-align: left;
+}
+.clubheading
+{
+  display: inline-block;
+}
+.clubdropdown
+{
+  height: 15px;
+  width: 15px;
+  display: inline-block;
+}
+.clubscontent
+{
+  display: none;
+}
+.captionclub
+{
+  margin-left: 100px;
+  margin-right: 450px;
+}
+.sports
+{
+  text-align: left;
+}
+.sportsheading
+{
+  display: inline-block;
+}
+.sportsdropdown
+{
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+}
+.sportscontent
+{
+  display: none;
+}
+.work
+{
+  text-align: left;
+
+}
+.workheading
+{
+  display: inline-block;
+
+}
+.workdropdown
+{
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+}
+
+.workcontent
+{
+  display: none;
+}
+.languageshome
+{
+  height: 100px;
+  width: 100px;
+  text-align: center;
+  margin-top: 0px;
+  border-radius: 25px;
+}
+.bharatlovesprogramming
+{
+  margin-right: 165px;
+  text-align: center;
+}
+.program
+{
+  height: 400px;
+  width: 700px;
+}
+.programminglanguages
+{
+  text-align: left;
+  display: inline-block;
+  margin-right: 40px;
+  text-align: top;
+  vertical-align: top;
+
+}
+.scriptinglanguages
+{
+  text-align: left;
+  display: inline-block;
+  vertical-align: top;
+}
+.applications
+{
+  text-align: left;
+  display: inline-block;
+  margin-left: 40px;
+  vertical-align: top;
+}
+.operatingsystems
+{
+  text-align: left;
+  display: inline-block;
+  margin-left: 40px;
+  vertical-align: top;
+}
+.apis
+{
+  text-align: left;
+  display: inline-block;
+  margin-left: 40px;
+  vertical-align: top;
+}
+.skills
+{
+  text-align: center;
+  margin-right: 0;
+}
+.projectmain
+{
+  text-align: center;
+  font-size: 20px;
+  margin-top: 32px;
+  margin-right: 575px;
+  line-height: 150%;
+  float-left: 100px;
+
+}
